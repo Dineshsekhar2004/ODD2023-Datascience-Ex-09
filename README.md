@@ -18,8 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE
 ```
-### Developed by:Deepika S
-### Register number:212222230028
+### Developed by:Dinesh S
+### Register number:212222230033
 ```
 ```
 import seaborn as sns
